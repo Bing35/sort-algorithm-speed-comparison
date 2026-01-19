@@ -4,6 +4,6 @@
 Video game sales. Sort by North American sales. 
 
 ## Sorting algorithms
-Bubble sort
-Bubble sort faster
-Merge sort
+- Bubble sort
+- Bubble sort faster
+- Merge sort
